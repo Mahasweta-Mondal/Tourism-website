@@ -1,0 +1,17 @@
+nav{
+    background: #711414;
+}
+a{
+    text-decoration: none;
+    color:beige;
+    border-right: 1px solid beige;
+    padding: 15px 15px 15px 15px;
+    display: block;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+li{
+    display: inline-block;
+}
